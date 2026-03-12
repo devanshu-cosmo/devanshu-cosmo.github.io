@@ -5,3 +5,34 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
+
+author:
+  name: "Devanshu"
+  avatar: "/assets/images/profile.jpg"
+  bio: "PhD in Theoretical & Computational Physics | Machine Learning | Stochastic Processes | Statistics"
+  location: "Germany / India"
+
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:devanshu_cosmo@proton.me"
+
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/devanshu-cosmo"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/devanshu-sharma-08b97b20b/"
+
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0009-0002-3302-2153"
+
+    - label: "InspireHEP"
+      icon: "fas fa-book"
+      url: "https://inspirehep.net/authors/2784946"
+
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Devanshu-Sharma-2"
