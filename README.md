@@ -1,2 +1,2 @@
 # devanshu-cosmo.github.io
-Personal Website
+Initial website setup
