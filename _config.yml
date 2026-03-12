@@ -1,0 +1,6 @@
+title: "Devanshu"
+description: "Computational Physics, Machine Learning, Quantitative Finance, Energy Markets"
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-include-cache
