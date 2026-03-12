@@ -36,3 +36,6 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Devanshu-Sharma-2"
+
+include:
+  - _pages
