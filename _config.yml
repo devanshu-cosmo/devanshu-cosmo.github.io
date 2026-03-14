@@ -37,7 +37,7 @@ author:
 include:
   - _pages
   
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"
 
 custom_css:
   - /assets/css/custom.css
