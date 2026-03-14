@@ -9,8 +9,6 @@ plugins:
 author:
   name: "Devanshu Sharma"
   avatar: "/assets/images/profile.jpg"
-  bio: "PhD in Theoretical & Computational Physics | Machine Learning | Stochastic Processes | Statistics"
-  location: "Germany / India"
 
   links:
     - label: "Email"
