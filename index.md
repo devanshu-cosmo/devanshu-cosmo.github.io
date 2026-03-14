@@ -1,7 +1,6 @@
 ---
 layout: home
 author_profile: true
-title: "Devanshu"
 ---
 
 Welcome to my personal website.
