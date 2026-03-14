@@ -8,7 +8,7 @@ permalink: /publications/
 
 **Cosmic imprints of quantum jitters: stochastic inflation, spectral distortions and primordial black holes**
 
-[Download thesis](#)
+[PhD Thesis](https://publications.rwth-aachen.de/record/1018884)
 
 Investigated the origin and evolution of primordial perturbations generated during cosmic inflation and their observable consequences in the early universe. It develops non-perturbative numerical methods to study stochastic inflation, explores the impact of primordial fluctuations on cosmic microwave background (CMB) spectral distortions, and examines the role of non-Gaussian perturbations in the formation of primordial black holes. These results provide new constraints on early-universe physics and on scenarios where primordial black holes act as seeds of supermassive black holes.
 
@@ -47,6 +47,8 @@ Investigated the origin and evolution of primordial perturbations generated duri
 
 **Astrophysical Impacts on the Primordial Black Holes**  
 University of British Columbia (Semester Abroad)
+
+[PhD Thesis](../assets/files/master_thesis.pdf)
 
 This thesis studied the astrophysical evolution of primordial black holes and their potential role as dark matter candidates. The work analyzed accretion mechanisms, binary formation, and merger rates of primordial black holes, as well as observational constraints from cosmological and gravitational-wave experiments.
 
