@@ -7,7 +7,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Devanshu Sharma"
   avatar: "/assets/images/profile.jpg"
 
   links:
@@ -37,3 +36,8 @@ author:
 
 include:
   - _pages
+  
+minimal_mistakes_skin: "default"
+
+custom_css:
+  - /assets/css/custom.css
