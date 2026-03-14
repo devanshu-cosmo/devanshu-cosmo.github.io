@@ -43,13 +43,6 @@ Investigated the origin and evolution of primordial perturbations generated duri
 
 ---
 
-## Conference and Poster Presentations
-
-A selection of talks and poster presentations based on the above research work.  
-
-
----
-
 ## Master's Thesis
 
 **Astrophysical Impacts on the Primordial Black Holes**  
