@@ -1,4 +1,4 @@
-title: "Devanshu"
+title: "Devanshu Sharma"
 description: "Computational Physics, Machine Learning, Quantitative Finance, Energy Markets"
 
 remote_theme: "mmistakes/minimal-mistakes"
@@ -7,7 +7,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Devanshu"
+  name: "Devanshu Sharma"
   avatar: "/assets/images/profile.jpg"
   bio: "PhD in Theoretical & Computational Physics | Machine Learning | Stochastic Processes | Statistics"
   location: "Germany / India"
