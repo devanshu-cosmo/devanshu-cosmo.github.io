@@ -48,7 +48,7 @@ Investigated the origin and evolution of primordial perturbations generated duri
 **Astrophysical Impacts on the Primordial Black Holes**  
 University of British Columbia (Semester Abroad)
 
-[PhD Thesis](../assets/files/master_thesis.pdf)
+[MSc Thesis](../assets/files/master_thesis.pdf)
 
 This thesis studied the astrophysical evolution of primordial black holes and their potential role as dark matter candidates. The work analyzed accretion mechanisms, binary formation, and merger rates of primordial black holes, as well as observational constraints from cosmological and gravitational-wave experiments.
 
