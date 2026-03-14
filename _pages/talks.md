@@ -7,11 +7,11 @@ permalink: /talks/
 ## Invited Talks
 
 **Primordial Black Holes via CMB Blackbody Distortions**  
-Cosmology Talks, Jagiellonian University, Poland  
+Cosmology Talks (Online), Jagiellonian University, Poland  
 July 2024 — 45 minutes
 
 **Primordial Non-Gaussianity in CMB Spectral Distortions**  
-Majorana–Raychaudhuri Seminars, INFN, Italy  
+Majorana–Raychaudhuri Seminars (Online), INFN, Italy  
 May 2024 — 45 minutes
 
 ---
