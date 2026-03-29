@@ -49,7 +49,7 @@ The picture below helps you imagine what goes on inside a simulation that is try
 
 ---
 
-![Stochastic simulation workflow](/assets/images/figure7_stochastic_inflation.pdf)
+![Stochastic simulation workflow](/assets/images/figure7_stochastic_inflation.jpg)
 
 *An ensemble of stochastic trajectories of the field illustrating how quantum noise perturbs the field trajectory and generates a spread in outcomes, with red dots being the mean of the spread.*
 
@@ -65,7 +65,7 @@ Furthermore, the algorithm is readily extendable to multi-field inflation models
 
 ---
 
-![Algorithm flowchart](/assets/images/algorithm_flowchart.png)
+![Algorithm flowchart](/assets/images/Stochastic_Inflation_algorithm_flowchart.jpg)
 
 *Flowchart of the stochastic simulation algorithm, from noise generation to reconstruction of statistical observables.*
 
