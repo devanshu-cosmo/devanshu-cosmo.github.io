@@ -47,7 +47,7 @@ Repeating this process for **millions of realizations** allows us to construct p
 - Adds **importance sampling** to the random noise sampler to catch the **very rare** realizations sitting far in the tail of the PDF
 - Executes parallelized simulations on the **RWTH Aachen computing cluster** across **100+ CPU cores**
 
-The picture below helps you imagine what goes on inside a simulation that is trying to catch the stochastic evolutions of a scalar field, just \(10^{-36}\) seconds after the Big Bang!
+The picture below helps you imagine what goes on inside a simulation that is trying to catch the stochastic evolutions of a scalar field, just $10^{-36}$ seconds after the Big Bang!
 
 ---
 
