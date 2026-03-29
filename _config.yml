@@ -41,3 +41,9 @@ minimal_mistakes_skin: "air"
 
 custom_css:
   - /assets/css/custom.css
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+mathjax: true
