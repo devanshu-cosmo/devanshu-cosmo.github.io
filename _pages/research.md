@@ -5,17 +5,26 @@ permalink: /research/
 ---
 My academic research focuses primarily on the physics of the very early universe. I have worked on projects related to cosmic inflation, primordial black holes, cosmic microwave background, primordial non-Gaussianity, and actively expanding my domain to gravitational waves and machine learning applied to cosmology. My primary research projects are highlighted here.
 
-<div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
+---
 
-  <img src="/assets/images/stochastic_inflation_thumbnail.png" style="width: 180px; border-radius: 6px;">
+<div class="project-card">
 
-  <div>
+  <img src="/assets/images/stochastic_inflation_thumbnail.png">
 
-  ### Stochastic Inflation and Numerical Simulations  
-  [View Project →](/research/stochastic-inflation/)
+  <div class="project-text">
+    <h3>
+      <a href="/research/stochastic-inflation/">
+        Stochastic Inflation and Numerical Simulations
+      </a>
+    </h3>
 
-  Numerical modeling of stochastic processes in the early universe, focusing on quantum diffusion, non-Gaussianity, and the statistical properties of primordial perturbations.
+    <p>
+      Numerical modeling of stochastic processes in the early universe, focusing on quantum diffusion, non-Gaussianity, and the statistical properties of primordial perturbations.
+    </p>
 
+    <a class="project-link" href="/research/stochastic-inflation/">
+      View Project →
+    </a>
   </div>
 
 </div>
