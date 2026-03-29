@@ -11,6 +11,7 @@ Moments after the Big Bang, cosmic inflation, a beautiful theory explaining the 
 This quantum-to-classical transition occurs when perturbations in the inflaton field are stretched to super-Horizon scales. This is where the beauty of stochastic processes enters the picture. The quantum perturbations don't just classicalize at large scales; they also "kick" the homogeneous background (the unperturbed universe) and render stochasticity to it.
 
 This is the idea behind **stochastic inflation**. 
+
 ---
 
 ## The Math
@@ -22,7 +23,7 @@ $$
 \frac{d\pi}{dN} = - (3 - \epsilon)\pi - \frac{V_{,\phi}}{H^2} + \xi_\pi
 $$
 
-Here, the terms \( \xi_\phi \) and \( \xi_\pi \) represent stochastic noise arising from quantum fluctuations that continuously source the large-scale dynamics. One can extract interesting statistical information by collecting numerous random realizations of a single inflation model. 
+Here, the terms \(\xi_\phi\) and \(\xi_\pi\) represent stochastic noise arising from quantum fluctuations that continuously source the large-scale dynamics. One can extract interesting statistical information by collecting numerous random realizations of a single inflation model. 
 
 In cosmology, one needs to evaluate "observables" in order to match theoretical predictions with observations. One such class of observables is statistical correlators of primordial curvature perturbations (\( \mathcal{R} \)). A powerful idea called the \( \Delta N \) formalism connects the stochastic formalism to curvature perturbations:
 
@@ -30,12 +31,13 @@ $$
 \mathcal{R} = \Delta N
 $$
 
-Hence, instead of solving complicated equations from Quantum Field Theory, we can build stochastic simulations to get to the statistical correlators (two-point function, three-point function, etc) of \( \mathcal{R} \). 
+Hence, instead of solving complicated equations from Quantum Field Theory, we can build stochastic simulations to get to the statistical correlators (two-point function, three-point function, etc) of \(\mathcal{R}\). 
+
 ---
 
 ## The Simulations
 
-The simulations involve repeated but independent evolution of the universe throughout the inflationary phase, while recording snapshots of intermediate states as well as the first-passage time. The latter is done for the end of inflation to get statistics of the duration of inflation \( \Delta N \). 
+The simulations involve repeated but independent evolution of the universe throughout the inflationary phase, while recording snapshots of intermediate states as well as the first-passage time. The latter is done for the end of inflation to get statistics of the duration of inflation \(\Delta N\). 
 
 Repeating this process for **millions of realizations** allows us to construct probability distributions (PDFs) and power spectra of curvature perturbations. This is what my project precisely does. At the computational level, my algorithm:
 
@@ -45,7 +47,7 @@ Repeating this process for **millions of realizations** allows us to construct p
 - Adds **importance sampling** to the random noise sampler to catch the **very rare** realizations sitting far in the tail of the PDF
 - Executes parallelized simulations on the **RWTH Aachen computing cluster** across **100+ CPU cores**
 
-The picture below helps you imagine what goes on inside a simulation that is trying to catch the stochastic evolutions of a scalar field, just $$10^{-36}$$ seconds after the Big Bang!
+The picture below helps you imagine what goes on inside a simulation that is trying to catch the stochastic evolutions of a scalar field, just \(10^{-36}\) seconds after the Big Bang!
 
 ---
 
@@ -70,6 +72,7 @@ Furthermore, the algorithm is readily extendable to multi-field inflation models
 *Flowchart of the stochastic simulation algorithm, from noise generation to reconstruction of statistical observables.*
 
 If you have an idea to build upon this framework, either in physics or outside of it, do not hesitate to contact me!
+
 ---
 
 ## Reference
