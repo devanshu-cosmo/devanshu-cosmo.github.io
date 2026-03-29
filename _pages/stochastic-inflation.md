@@ -49,9 +49,9 @@ The picture below helps you imagine what goes on inside a simulation that is try
 
 ---
 
-![Stochastic simulation workflow](/assets/images/figure7_stochastic_inflation.png)
+![Stochastic simulation workflow](/assets/images/figure7_stochastic_inflation.pdf)
 
-*An arbitrary trajectory of stochastic dynamics of the field illustrating how quantum noise perturbs the field trajectory and generates a spread in outcomes.*
+*An ensemble of stochastic trajectories of the field illustrating how quantum noise perturbs the field trajectory and generates a spread in outcomes, with red dots being the mean of the spread.*
 
 ---
 
