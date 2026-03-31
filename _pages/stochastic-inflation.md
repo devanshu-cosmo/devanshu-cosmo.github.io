@@ -25,7 +25,7 @@ $$
 
 Here, the terms $\xi_\phi$ and $\xi_\pi$ represent stochastic noise arising from quantum fluctuations that continuously source the large-scale dynamics. One can extract interesting statistical information by collecting numerous random realizations of a single inflation model. 
 
-In cosmology, one needs to evaluate "observables" in order to match theoretical predictions with observations. One such class of observables is statistical correlators of primordial curvature perturbations ($\mathcal{R}$). A powerful idea called the  $\Delta N$ formalism connects the stochastic formalism to curvature perturbations:
+In cosmology, one needs to evaluate "observables" in order to match theoretical predictions with observations. One such class of observables is statistical correlators of primordial curvature perturbations ($\mathcal{R}$). A powerful idea called the $\Delta N$ formalism connects the stochastic formalism to curvature perturbations:
 
 $$
 \mathcal{R} = \Delta N
@@ -37,7 +37,7 @@ Hence, instead of solving complicated equations from Quantum Field Theory, we ca
 
 ## The Simulations
 
-The simulations involve repeated but independent evolution of the universe throughout the inflationary phase, while recording snapshots of intermediate states as well as the first-passage time. The latter is done for the end of inflation to get statistics of the duration of inflation \(\Delta N\). 
+The simulations involve repeated but independent evolution of the universe throughout the inflationary phase, while recording snapshots of intermediate states as well as the first-passage time. The latter is done for the end of inflation to get statistics of the duration of inflation $\Delta N$. 
 
 Repeating this process for **millions of realizations** allows us to construct probability distributions (PDFs) and power spectra of curvature perturbations. This is what my project precisely does. At the computational level, my algorithm:
 
