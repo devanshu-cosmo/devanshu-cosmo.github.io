@@ -14,7 +14,7 @@ My academic research focuses primarily on the physics of the very early universe
   <div class="project-text">
     <h3>
       <a href="/research/stochastic-inflation/">
-        Stochastic Inflation and Numerical Simulations
+        Stochastic Inflation & Numerical Simulations
       </a>
     </h3>
 
@@ -31,9 +31,27 @@ My academic research focuses primarily on the physics of the very early universe
 
 ---
 
-### Spectral Distortions
+<div class="project-card">
 
-Research on the imprint of primordial perturbations on CMB spectral distortions
+  <img src="/assets/images/spectral_distortions_thumbnail.png">
+
+  <div class="project-text">
+    <h3>
+      <a href="/research/spectral-distortions/">
+        Spectral Distortions & non-Gaussian Statistics
+      </a>
+    </h3>
+
+    <p>
+      Imprints of primordial perturbations on CMB spectral distortions via Silk damping and the room for primordial non-Gaussianity
+    </p>
+
+    <a class="project-link" href="/research/spectral-distortions/">
+      View Project →
+    </a>
+  </div>
+
+</div>
 
 ---
 
