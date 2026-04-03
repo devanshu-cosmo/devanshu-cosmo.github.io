@@ -70,7 +70,7 @@ My academic research focuses primarily on the physics of the very early universe
       Production of PBHs and calculation of their refined constraints.
     </p>
 
-    <a class="project-link" href="/research/pbh/">
+    <a class="project-link" href="/research/pbhs/">
       View Project →
     </a>
   </div>
