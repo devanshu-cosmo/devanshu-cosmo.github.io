@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Primordial Black Holes"
-permalink: /research/pbhs/
+title: "Primordial Black Holes: Formation"
+permalink: /research/pbh_formation/
 ---
 
 ## Background
@@ -51,7 +51,3 @@ The execution was done through a series of steps, including:
 
 - **Production of primordial black holes via single field inflation and observational constraints**
 [arXiv:2108.13839](https://arxiv.org/abs/2108.13839)
-- **Robust μ-distortion constraints on primordial supermassive black holes from non-Gaussian perturbations**  
-[arXiv:2404.18475](https://arxiv.org/abs/2404.18475)
-- **Robust μ-distortion constraints on primordial supermassive black holes from cubic (gNL) non-Gaussian perturbations**
-[arXiv:2505.08441](https://arxiv.org/abs/2505.08442)
