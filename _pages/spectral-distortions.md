@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "CMB Spectral Distortions and Primordial Non-Gaussianity"
-permalink: /research/cmb-spectral-distortions/
+title: "CMB Spectral Distortions & non-Gaussian Statistics"
+permalink: /research/spectral-distortions/
 ---
 
 ## Background
