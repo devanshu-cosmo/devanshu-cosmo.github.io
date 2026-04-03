@@ -43,7 +43,7 @@ My academic research focuses primarily on the physics of the very early universe
     </h3>
 
     <p>
-      Imprints of primordial perturbations on CMB spectral distortions via Silk damping and the room for primordial non-Gaussianity
+      Imprints of primordial perturbations on CMB spectral distortions via Silk damping and the room for primordial non-Gaussianity.
     </p>
 
     <a class="project-link" href="/research/spectral-distortions/">
@@ -55,6 +55,24 @@ My academic research focuses primarily on the physics of the very early universe
 
 ---
 
-### Primordial Black Holes  
+<div class="project-card">
 
-Research Primordial Black Hole formation and its constraints
+  <img src="/assets/images/pbh_thumbnail.png">
+
+  <div class="project-text">
+    <h3>
+      <a href="/research/pbhs/">
+        Primordial Black Holes
+      </a>
+    </h3>
+
+    <p>
+      Production of PBHs and calculation of their refined constraints.
+    </p>
+
+    <a class="project-link" href="/research/pbh/">
+      View Project →
+    </a>
+  </div>
+
+</div>
