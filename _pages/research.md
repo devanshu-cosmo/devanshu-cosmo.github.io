@@ -61,16 +61,40 @@ My academic research focuses primarily on the physics of the very early universe
 
   <div class="project-text">
     <h3>
-      <a href="/research/pbhs/">
-        Primordial Black Holes
+      <a href="/research/pbh_formation/">
+        Primordial Black Holes: Formation
       </a>
     </h3>
 
     <p>
-      Production of PBHs and calculation of their refined constraints.
+      Framework for Primordial Black Hole formation from cosmic inflation.
     </p>
 
-    <a class="project-link" href="/research/pbhs/">
+    <a class="project-link" href="/research/pbh_formation/">
+      View Project →
+    </a>
+  </div>
+
+</div>
+
+---
+
+<div class="project-card">
+
+  <img src="/assets/images/pbh_smbh_thumbnail.png">
+
+  <div class="project-text">
+    <h3>
+      <a href="/research/pbh_constraints/">
+        (Supermassive) Primordial Black Holes: Constraints
+      </a>
+    </h3>
+
+    <p>
+      Refined constraints on the Primordial Black Holes as the seeds of supermassive black holes from CMB spectral distortions.
+    </p>
+
+    <a class="project-link" href="/research/pbh_constraints/">
       View Project →
     </a>
   </div>
