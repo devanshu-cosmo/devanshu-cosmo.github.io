@@ -47,3 +47,5 @@ kramdown:
   math_engine: mathjax
 
 mathjax: true
+
+google_analytics: G-5JDQWGRRTH
