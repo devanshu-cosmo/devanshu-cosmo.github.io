@@ -149,3 +149,14 @@ The figure below compares two configurations:
 → Backtesting (Static / Expanding / Sliding Window)
 → 2024 HPFC Forecast
 → Cal-27 Forward Price Scaling
+
+---
+
+<div class="project-links-bar">
+  <a href="https://github.com/devanshu-cosmo/ml-projects/tree/main/Time_Series_Data" target="_blank" class="btn btn--primary">
+    <i class="fab fa-github"></i> View on GitHub
+  </a>
+  <a href="/assets/files/Devanshu_SARIMAX_Report_compressed.pdf" target="_blank" class="btn btn--inverse">
+    <i class="fas fa-file-pdf"></i> Download Full Report
+  </a>
+</div>
