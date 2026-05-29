@@ -124,7 +124,7 @@ The figure below compares two configurations:
 - **Model B** — trained on 2022–2023 (last 2 years, includes the energy crisis)
 
 <figure>
-  <img src="/assets/images/projects/hpfc_forecast_2024.png" alt="2024 hourly price forecast comparison between Model A and Model B">
+  <img src="/assets/images/projects/hpfc-sarimax/hpfc_forecast_2024.png" alt="2024 hourly price forecast comparison between Model A and Model B">
   <figcaption>2024 HPFC forecast. Both models are scaled so that the yearly average equals 85 €/MWh (assumed Cal-27 forward price). Model B, trained on the 2022 crisis period, exhibits higher amplitude oscillations — reflecting heightened sensitivity to market volatility. The overall shape is stable across both setups, validating the robustness of the SARIMAX framework.</figcaption>
 </figure>
 
