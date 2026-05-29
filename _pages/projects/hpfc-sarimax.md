@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Hourly Price Forward Curve — SARIMAX Forecasting"
+title: "Hourly Price Forward Curve - SARIMAX Forecasting"
 permalink: /projects/hpfc-sarimax/
 toc: true
 toc_label: "Contents"
@@ -13,15 +13,6 @@ toc_icon: "chart-line"
   <span class="tag">statsmodels</span>
   <span class="tag">Time Series</span>
   <span class="tag">Energy Markets</span>
-</div>
-
-<div class="project-links-bar">
-  <a href="https://github.com/devanshu-cosmo/ml-projects/tree/main/Time_Series_Data" target="_blank" class="btn btn--primary btn--small">
-    <i class="fab fa-github"></i> GitHub Repo
-  </a>
-  <a href="/assets/files/Devanshu_SARIMAX_Report_compressed.pdf" target="_blank" class="btn btn--inverse btn--small">
-    <i class="fas fa-file-pdf"></i> Full Report
-  </a>
 </div>
 
 ---
