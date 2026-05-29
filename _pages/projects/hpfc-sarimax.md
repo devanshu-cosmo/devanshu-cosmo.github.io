@@ -39,17 +39,17 @@ This project develops a full pipeline to construct an HPFC for the **German day-
 The first step was to identify and quantify recurring patterns at four time scales: **daily, weekly, seasonal,** and **crisis-driven**.
 
 <figure>
-  <img src="/assets/images/projects/hpfc_daily_pattern.png" alt="Daily price patterns showing the duck curve effect">
+  <img src="/assets/images/projects/hpfc-sarimax/hpfc_daily_pattern.png" alt="Daily price patterns showing the duck curve effect">
   <figcaption>Daily patterns in German electricity prices. The characteristic "Duck Curve" shows twin peaks during morning and evening demand, a solar-driven noon dip, and occasional negative prices during solar surplus. Peak hour: 19:00 (133 €/MWh); Off-peak: 03:00 (77 €/MWh).</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/projects/hpfc_seasonal_pattern.png" alt="Seasonal price patterns across months and seasons">
+  <img src="/assets/images/projects/hpfc-sarimax/hpfc_seasonal_pattern.png" alt="Seasonal price patterns across months and seasons">
   <figcaption>Seasonal price structure. August is the most expensive month (avg. 143 €/MWh, σ = 178 €/MWh) driven by cooling demand and renewable volatility. May is the cheapest (avg. 74 €/MWh), when high wind generation keeps prices suppressed.</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/projects/hpfc_crisis_pattern.png" alt="Russia-Ukraine energy crisis impact on electricity prices in 2022">
+  <img src="/assets/images/projects/hpfc-sarimax/hpfc_crisis_pattern.png" alt="Russia-Ukraine energy crisis impact on electricity prices in 2022">
   <figcaption>The Russia–Ukraine conflict (Feb 2022) caused TTF gas prices to surge, pushing German electricity prices to nearly 4× their 2021 levels by August 2022. This crisis signature is explicitly encoded as an exogenous variable in the model.</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Three backtesting strategies were implemented and compared. All strategies respe
 **Sliding Window** is the primary backtesting strategy. The training set is fixed at **90 days**, the test set at **14 days**, and the entire window slides forward at each iteration. This makes it significantly faster than the expanding approach while remaining robust to regime changes — old data is discarded as time progresses. The trade-off is reduced sensitivity to long-term seasonality; in practice, RMSE remains stable for the majority of the test period, with spikes concentrated around the 2022 crisis window.
 
 <figure>
-  <img src="/assets/images/projects/hpfc_backtest_static.png" alt="Static train-test split backtesting results">
+  <img src="/assets/images/projects/hpfc-sarimax/hpfc_backtest_static.png" alt="Static train-test split backtesting results">
   <figcaption>Static train-test split backtesting (training: 6 months, test: 1 month). The bottom panel zooms into the test period, showing the model closely tracking actual price dynamics. MAE: 7.51 €/MWh, RMSE: 9.12 €/MWh.</figcaption>
 </figure>
 
