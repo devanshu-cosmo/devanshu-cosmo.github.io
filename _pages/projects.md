@@ -10,7 +10,7 @@ This page summarizes my external projects spanning machine learning, time series
 
 <div class="project-card">
 
-  <img src="/assets/images/projects/sarimax/hpfc_thumbnail.png" alt="HPFC SARIMAX Time Series Project">
+  <img src="/assets/images/projects/hpfc-sarimax/hpfc_thumbnail.png" alt="HPFC SARIMAX Time Series Project">
 
   <div class="project-text">
     <h3>
